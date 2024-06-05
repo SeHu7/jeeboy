@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UrbanArtNL: Ontdek de Wereld van Graffiti</title>
+    <style>
+        /* Hier kun je wat CSS toevoegen voor stijling */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #444;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 10px 20px;
+        }
+        nav a:hover {
+            background-color: #555;
+        }
+        .container {
+            max-width: 960px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>UrbanArtNL: Ontdek de Wereld van Graffiti</h1>
+    </header>
+    <nav>
+        <a href="#">Over Ons</a>
+        <a href="#">Ontdek Graffiti</a>
+        <a href="#">Artiesten</a>
+        <a href="#">Graffiti Gids</a>
+        <a href="#">Community</a>
+        <a href="#">Nieuws en Evenementen</a>
+        <a href="#">Contact</a>
+    </nav>
+    <div class="container">
+        <h2>Over Ons</h2>
+        <p>UrbanArtNL is dé online bestemming voor graffiti-liefhebbers, street art aficionados en nieuwsgierige geesten die meer willen weten over de boeiende wereld van graffiti...</p>
+        <!-- Andere secties hier -->
+    </div>
+</body>
+</html>
